@@ -90,10 +90,6 @@ npm run dev
 - Connects using a one-time OTP sent to the entered email address.
 - *(Local Dev Fallback)*: If email services aren't set up, retrieve the code directly from the server terminal console output.
 
-### Administrator Dashboard:
-- **Direct Login URL:** `/admin-login`
-- **Email:** `mihirpatwardhan9588@gmail.com`
-- **Password:** `MIHIR8444`
 
 ---
 
