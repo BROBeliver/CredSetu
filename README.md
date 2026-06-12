@@ -97,6 +97,4 @@ npm run dev
 
 ---
 
-## 👥 Contributors
-- **Mihir Patwardhan** ([@mihirmpatwardhan](https://github.com/mihirmpatwardhan))
-- **Anand Arokade** ([@anandarokade](https://github.com/anandarokade))
+
